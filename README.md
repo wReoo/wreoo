@@ -1,9 +1,9 @@
 <!-- Header -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=32&pause=3000&color=7F77DD&center=true&vCenter=true&width=500&lines=hey%2C+i'm+Your+Name+%F0%9F%91%8B;i+build+things+for+the+web+%E2%9C%A8;welcome+to+my+little+corner+%F0%9F%8C%B8)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=28&pause=3000&color=7F77DD&center=true&vCenter=true&width=500&lines=hey+i'm+wReoo+%F0%9F%91%8B%21;just+coding+cool+stuff+%E2%9C%A8;based+in+czech+republic+%F0%9F%87%A8%F0%9F%87%BF)
 
-[![Status](https://img.shields.io/badge/status-currently_coding_something_cool-9BE7D1?style=flat-square&logoColor=white)](https://github.com/yourusername)
+[![Status](https://img.shields.io/badge/status-just_coding_cool_stuff-9BE7D1?style=flat-square)](https://github.com/wReoo)
 
 </div>
 
@@ -12,12 +12,11 @@
 ## 🌸 about me
 
 ```yaml
-name:      Your Name
-based_in:  Your City 🌍
-role:      Full Stack Developer
+name:      wReoo
+based_in:  Czech Republic
+vibe:      just building cool things 🛠️
 learning:  something new every single day 🌱
-fuel:      coffee + lo-fi beats ☕
-fun_fact:  I once fixed a bug at 2am and danced for 5 minutes straight 🕺
+fuel:      coffee ☕
 ```
 
 ---
@@ -52,18 +51,6 @@ fun_fact:  I once fixed a bug at 2am and danced for 5 minutes straight 🕺
 
 ---
 
-## 📊 github stats
-
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=graywhite&hide_border=true&title_color=534AB7&icon_color=D4537E&text_color=444441&bg_color=F1EFE8)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=graywhite&hide_border=true&title_color=534AB7&text_color=444441&bg_color=F1EFE8)
-
-</div>
-
----
-
-<div align="center">
-  <sub>made with ♥ · thanks for visiting!</sub>
+  <sub>not for hire · just vibing & building · thanks for stopping by 🌸</sub>
 </div>
