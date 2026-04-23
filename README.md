@@ -1,95 +1,69 @@
+<!-- Header -->
 <div align="center">
 
-# Hi there 👋, I'm [Your Name / Username]!
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=32&pause=3000&color=7F77DD&center=true&vCenter=true&width=500&lines=hey%2C+i'm+Your+Name+%F0%9F%91%8B;i+build+things+for+the+web+%E2%9C%A8;welcome+to+my+little+corner+%F0%9F%8C%B8)
 
-**🚀 Developer | Web Creator | Scripting Enthusiast**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38Bdf8&center=true&vCenter=true&width=435&lines=Building+cool+stuff+with+Python;Crafting+beautiful+websites;Writing+JavaScript+%26+Batch+scripts;Always+learning+new+tech!)](https://git.io/typing-svg)
-
-An innovative developer passionate about building dynamic websites, writing efficient scripts, and automating the boring stuff. I love turning complex problems into simple, beautiful, and intuitive designs.
-
----
-
-</div>
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **[Insert your current coolest project here]**
-- 🕸️ I specialize in creating **responsive and modern websites**.
-- 🐍 I write robust backend code and automation scripts in **Python**.
-- ⚙️ Sometimes I even kick it old school with **Batch** to automate local workflows!
-- 🌱 I’m currently learning **[Insert a framework or tech you are learning, e.g., React, Next.js, Docker]**
-- 📫 How to reach me: **[Your Email Address]**
-- ⚡ Fun fact: **[Insert a fun fact about yourself!]**
-
----
-
-### 🛠️ My Tech Stack
-
-<details>
-  <summary><b>💻 Languages & Scripts</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Batch" />
-</details>
-
-<details>
-  <summary><b>🕸️ Web Development</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <!-- Add React, Vue, Tailwind, etc., here if you use them -->
-</details>
-
-<details>
-  <summary><b>🔧 Tools & Platforms</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</details>
-
----
-
-### 🚀 Featured Projects
-
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Cool Website](https://github.com/yourusername/repo)** | A fancy, responsive website I built for [purpose]. | `HTML/CSS`, `JS` |
-| **[Python Automator](https://github.com/yourusername/repo)** | A script that automates daily workflow tasks. | `Python` |
-| **[Batch Toolkit](https://github.com/yourusername/repo)** | A collection of neat batch scripts for Windows. | `Batch` |
-
-*(Feel free to replace these with your actual projects and links!)*
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-
-  <br/><br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+[![Status](https://img.shields.io/badge/status-currently_coding_something_cool-9BE7D1?style=flat-square&logoColor=white)](https://github.com/yourusername)
 
 </div>
 
 ---
 
-### 🌐 Let's Connect!
+## 🌸 about me
+
+```yaml
+name:      Your Name
+based_in:  Your City 🌍
+role:      Full Stack Developer
+learning:  something new every single day 🌱
+fuel:      coffee + lo-fi beats ☕
+fun_fact:  I once fixed a bug at 2am and danced for 5 minutes straight 🕺
+```
+
+---
+
+## 🎨 my stack
+
+**🗣️ languages**
+
+![Python](https://img.shields.io/badge/Python-EEEDFE?style=flat-square&logo=python&logoColor=534AB7)
+![JavaScript](https://img.shields.io/badge/JavaScript-FAEEDA?style=flat-square&logo=javascript&logoColor=633806)
+![TypeScript](https://img.shields.io/badge/TypeScript-E6F1FB?style=flat-square&logo=typescript&logoColor=0C447C)
+![Bash](https://img.shields.io/badge/Bash-F1EFE8?style=flat-square&logo=gnubash&logoColor=444441)
+
+**🛠️ frameworks**
+
+![React](https://img.shields.io/badge/React-E1F5EE?style=flat-square&logo=react&logoColor=085041)
+![Next.js](https://img.shields.io/badge/Next.js-F1EFE8?style=flat-square&logo=nextdotjs&logoColor=2C2C2A)
+![Node.js](https://img.shields.io/badge/Node.js-EAF3DE?style=flat-square&logo=nodedotjs&logoColor=27500A)
+![FastAPI](https://img.shields.io/badge/FastAPI-E1F5EE?style=flat-square&logo=fastapi&logoColor=0F6E56)
+![Django](https://img.shields.io/badge/Django-EAF3DE?style=flat-square&logo=django&logoColor=3B6D11)
+![Tailwind](https://img.shields.io/badge/Tailwind-E6F1FB?style=flat-square&logo=tailwindcss&logoColor=185FA5)
+
+**🧰 tools & infra**
+
+![Docker](https://img.shields.io/badge/Docker-FAECE7?style=flat-square&logo=docker&logoColor=712B13)
+![Git](https://img.shields.io/badge/Git-F1EFE8?style=flat-square&logo=git&logoColor=444441)
+![AWS](https://img.shields.io/badge/AWS-E6F1FB?style=flat-square&logo=amazonaws&logoColor=0C447C)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E1F5EE?style=flat-square&logo=postgresql&logoColor=085041)
+![MongoDB](https://img.shields.io/badge/MongoDB-EAF3DE?style=flat-square&logo=mongodb&logoColor=27500A)
+![Redis](https://img.shields.io/badge/Redis-FAECE7?style=flat-square&logo=redis&logoColor=712B13)
+![Linux](https://img.shields.io/badge/Linux-FAEEDA?style=flat-square&logo=linux&logoColor=633806)
+
+---
+
+## 📊 github stats
 
 <div align="center">
-  <a href="https://your-portfolio-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=graywhite&hide_border=true&title_color=534AB7&icon_color=D4537E&text_color=444441&bg_color=F1EFE8)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=graywhite&hide_border=true&title_color=534AB7&text_color=444441&bg_color=F1EFE8)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>made with ♥ · thanks for visiting!</sub>
 </div>
